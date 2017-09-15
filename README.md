@@ -1,1 +1,1 @@
-REST API Built with sailsjs framework with MongoDB
+REST API Built with sailsjs framework and MongoDB
