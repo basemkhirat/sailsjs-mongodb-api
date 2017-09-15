@@ -1,1 +1,1 @@
-Mehtara REST API
+REST API Built with sailsjs framework with MongoDB
